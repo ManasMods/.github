@@ -1,5 +1,5 @@
 # Manas Mods
-Things we made:
+Things we made
 ## ManasCore
 [![DownloadCount](https://cf.way2muchnoise.eu/619025.svg) ![AvailableForVersions](https://cf.way2muchnoise.eu/versions/619025.svg)](https://www.curseforge.com/minecraft/mc-mods/manascore)
 
